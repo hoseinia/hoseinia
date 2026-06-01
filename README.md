@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋 I'm Amir Hossein
 
-<!--
-**hoseinia/hoseinia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Developer from Iran
 
-Here are some ideas to get you started:
+I enjoy building things with code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 Trading Bot Development
+- 🐍 Python Automation
+- 📈 Algorithmic Trading
+- 🐧 Linux & Servers
+
+---
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hoseinia&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoseinia&layout=compact&theme=tokyonight)
+
+---
+
+### Currently working on
+- Trading bots for MetaTrader 5
+- Python tools & automation
+- Linux server projects
