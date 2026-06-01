@@ -26,3 +26,8 @@ I enjoy building things with code.
 - Trading bots for MetaTrader 5
 - Python tools & automation
 - Linux server projects
+---
+
+## Contribution Snake 🐍
+
+![snake gif](https://github.com/hoseinia/hoseinia/blob/output/github-contribution-grid-snake.svg)
