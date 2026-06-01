@@ -19,14 +19,6 @@ I enjoy building things with code.
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hoseinia&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hoseinia&layout=compact&theme=tokyonight&cache_seconds=1800)
-
----
-
 ### Currently working on
 - Trading bots for MetaTrader 5
 - Python tools & automation
