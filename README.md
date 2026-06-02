@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there+👋;I'm+Amir+Hossein;Python+Developer;Trading+Bot+Builder;Linux+%26+Automation" alt="Typing SVG" />
 </p>
-# Hi 👋 I'm Amir Hossein
 
 ### Developer from Iran
 
@@ -28,6 +27,3 @@ I enjoy building things with code.
 - Linux server projects
 ---
 
-## Contribution Snake 🐍
-
-![snake gif](https://github.com/hoseinia/hoseinia/blob/output/github-contribution-grid-snake.svg)
